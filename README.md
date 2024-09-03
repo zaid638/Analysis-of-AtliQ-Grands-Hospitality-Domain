@@ -20,4 +20,12 @@ Provided with Sample Data and a Mock-up Dashboard to Analyze the Data and create
 * **Insight Generation:**  Identify and present additional insights beyond the given metric list that could help AtliQ Grands improve their strategic decision-making. <br />
 <br /><br /><br />
 
+## Data Collection & Preparation
+<br />
 
+* There are 5 tables provided for tracking revenue, 3 dimension tables (date, hotel, room) and 2 fact tables (bookings, aggregated bookings)
+* Power BI was the tool used for creating the visualization/dashboard
+* The data was imported, analyzed and transformed as per necessity within Power Query
+* The relationships between the tables were created within Power Pivot
+
+<br /><br /><br />

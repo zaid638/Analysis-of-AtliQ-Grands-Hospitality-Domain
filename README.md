@@ -1,6 +1,6 @@
 # Analysis-of-AtliQ-Grands-Hospitality-Domain
 <br />
-Provided with Sample Data and a Mock-up Dashboard to Analyze the Data and create Dashboard and give required insights and recommendations.
+A business intelligence dashboard for a luxury hotel chain to Analyze the Data and give required insights and recommendations.
 <br /><br /><br />
 
 ## Business Objective
